@@ -1,0 +1,7 @@
+{
+  "name": "pkonect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
